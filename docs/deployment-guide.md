@@ -1,5 +1,3 @@
-# Deployment Guide
-
 How to deploy the 1Hive DAO template for your organization.
 
 <br>
